@@ -41,4 +41,4 @@ We provide homography estimation code. You need to pick up one image clearly hav
 Feel free to open an issue if you get stuck anywhere.
 
 # Contact
-Jianli Wei, [`Homepage`](https://jianliwei1995.github.io/)
+Jianli Wei [[`Homepage`](https://jianliwei1995.github.io/)]
