@@ -39,3 +39,6 @@ We provide homography estimation code. You need to pick up one image clearly hav
 
 # Disclaimer
 Feel free to open an issue if you get stuck anywhere.
+
+# Contact
+Jianli Wei [Homepage]()
