@@ -14,7 +14,7 @@ YOLOv5 pretrained weights include
 * yolov5l.pt
 * yolov5x.pt
 
-They are available at [`one drive`](https://buckeyemailosu-my.sharepoint.com/:f:/g/personal/wei_909_buckeyemail_osu_edu/ElheLyOWtVxClCpbRCDLbSgBl8WupZU7qJvWI5jogmIX4w?e=zF8th3). Please download and save them into `model\yolov5\weights`.
+They are available at [`onedrive`](https://buckeyemailosu-my.sharepoint.com/:f:/g/personal/wei_909_buckeyemail_osu_edu/ElheLyOWtVxClCpbRCDLbSgBl8WupZU7qJvWI5jogmIX4w?e=zF8th3). Please download and save them into `model\yolov5\weights`.
 
 
 # Inference
